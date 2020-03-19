@@ -1,0 +1,23 @@
+﻿@*@{
+        ViewBag.Title = "Index";
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+
+    <h2>Index</h2>*@
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<script src="~/assets/Admin/ckeditor/ckeditor.js"></script>
+<script src="~/assets/Admin/ckfinder/ckfinder.js"></script>
+
+
+<div class="jumbotron">
+    @using (Html.BeginForm())
+    {
+        <textarea class="ckeditor" name="editor1"></textarea>
+        <button type="submit">save</button>
+    }
+</div>

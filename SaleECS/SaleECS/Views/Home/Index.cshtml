@@ -1,0 +1,132 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var listFeedback = (List<SaleECS.Models.FeedBack>)ViewBag.FeedBServices;
+}
+
+
+<section id="main-slider" class="no-margin">
+    <div class="carousel slide">
+        <div class="carousel-inner">
+            <div class="item active" style="background-image: url(/assets/Client/images/Calling.jpg)">
+            </div>
+            <!--/.item-->
+        </div>
+        <!--/.carousel-inner-->
+    </div>
+    <!--/.carousel-->
+</section>
+<!--/#main-slider-->
+
+<div class="feature">
+    <div class="container">
+        <div class="text-center">
+            <div class="col-md-3">
+                <div class="hi-icon-wrap hi-icon-effect wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+                    <i class="fa fa-book"></i>
+                    <h2>Full Responsive</h2>
+                    <p>Quisque eu ante at tortor imperdiet gravida nec sed turpis phasellus.</p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="hi-icon-wrap hi-icon-effect wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                    <i class="fa fa-microphone"></i>
+                    <h2>In-bound Services</h2>
+                    <p>Quisque eu ante at tortor imperdiet gravida nec sed turpis phasellus.</p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="hi-icon-wrap hi-icon-effect wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms">
+                    <i class="fa fa-headphones"></i>
+                    <h2>Out-bound Services</h2>
+                    <p>Quisque eu ante at tortor imperdiet gravida nec sed turpis phasellus.</p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="hi-icon-wrap hi-icon-effect wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms">
+                    <i class="fa fa-phone"></i>
+                    <h2>Tele Marketing Services</h2>
+                    <p>Quisque eu ante at tortor imperdiet gravida nec sed turpis phasellus.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="about">
+    <div class="container">
+        <div class="col-md-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+            <h2> Our Mission and Vision</h2>
+            <img src="/assets/Client/images/6.jpg" class="img-responsive" />
+            <p>Excell-on Consulting Services aims for long-term services with their clients. We add value to the business by encouraging our clients’ customers. In future, our only ambition is to become the only name in the call center outsourcing company. Our high quality customer care and knowledge across different domains aids us to achieve and surpass your business goals.</p>
+        </div>
+
+        <div class="col-md-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+            <h2>About Us</h2>
+            <p>
+                Excell-on Consulting Services (ECS) is a professional hub specialized in offering unrivaled IT, BPO and KPO outsourcing services. With the core aim to enhance businesses, abolish geographical barriers, bridge the gap between customers and businesses, Vision Call Service was founded on 15th Feb 2011. Skilled agents, tireless work, and extreme patience have helped us to earn its stripes with uncountable satisfied customers. We have worked with numerous clients and offered satisfying outcome which is how we have earned a distinguished place of being the leading name in this industry.
+
+                Being a part of this industry for decades has aided us to fill the deficiencies and offer exactly what our clients are looking for. With the unmatched services offered by our team, we have observed great transformation in businesses. Our extreme dedication to our clients and zeal to offer satisfied result boost the entire process along with operational efficiencies. We are available for businesses across geographies and wish to expand our services in other parts of the world in the coming years.
+        </div>
+    </div>
+</div>
+
+<div class="lates">
+    <div class="container">
+        <div class="text-center">
+            <h2>What Our Clients Say</h2>
+        </div>
+        @foreach (var item in listFeedback)
+        {
+            <div class="col-md-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+                <h3>@item.FullName</h3>
+                <h4>@item.Service</h4>
+                <p>
+                    @item.Content
+                </p>
+            </div>
+        }
+    </div>
+</div>
+
+<section id="partner">
+    <div class="container">
+        <div class="center wow fadeInDown">
+            <h2>Our Partners</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+        </div>
+
+        <div class="partners">
+            <ul>
+                <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" src="/assets/Client/images/partners/partner1.png"></a></li>
+                <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms" src="/assets/Client/images/partners/partner2.png"></a></li>
+                <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms" src="/assets/Client/images/partners/partner3.png"></a></li>
+                <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms" src="/assets/Client/images/partners/partner4.png"></a></li>
+                <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1500ms" src="/assets/Client/images/partners/partner5.png"></a></li>
+            </ul>
+        </div>
+    </div>
+    <!--/.container-->
+</section>
+<!--/#partner-->
+
+<section id="conatcat-info">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8">
+                <div class="media contact-info wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                    <div class="pull-left">
+                        <i class="fa fa-phone"></i>
+                    </div>
+                    <div class="media-body">
+                        <h2>Have a question or need a custom quote?</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation +0123 456 70 80</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--/.container-->
+</section>
+<!--/#conatcat-info-->

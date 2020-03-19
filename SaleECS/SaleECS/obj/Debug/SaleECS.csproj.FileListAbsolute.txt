@@ -1,0 +1,843 @@
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\SaleECS.dll.config
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\SaleECS.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\SaleECS.pdb
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\csc.exe
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\csc.exe.config
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\csc.rsp
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\csi.exe
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\csi.exe.config
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\csi.rsp
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\System.AppContext.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\System.Console.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\System.IO.Compression.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\System.Security.Claims.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\System.ValueTuple.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\vbc.exe
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\vbc.exe.config
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\vbc.rsp
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\VBCSCompiler.exe
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\Antlr3.Runtime.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\Newtonsoft.Json.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\System.Web.Helpers.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\System.Web.Mvc.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\System.Web.Optimization.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\System.Web.Razor.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\System.Web.WebPages.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\System.Web.WebPages.Razor.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\WebGrease.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\System.Web.Helpers.xml
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\System.Web.Mvc.xml
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\System.Web.Optimization.xml
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\System.Web.Razor.xml
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\System.Web.WebPages.xml
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\System.Web.WebPages.Razor.xml
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\Newtonsoft.Json.xml
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\Antlr3.Runtime.pdb
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\OS\source\repos\SaleECS\SaleECS\obj\Debug\SaleECS.csproj.CoreCompileInputs.cache
+C:\Users\OS\source\repos\SaleECS\SaleECS\obj\Debug\SaleECS.csproj.CopyComplete
+C:\Users\OS\source\repos\SaleECS\SaleECS\obj\Debug\SaleECS.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\obj\Debug\SaleECS.pdb
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\EntityFramework.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\EntityFramework.SqlServer.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\EntityFramework.xml
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\EntityFramework.SqlServer.xml
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\AutoMapper.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\AutoMapper.pdb
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\AutoMapper.xml
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\System.ValueTuple.dll
+C:\Users\OS\source\repos\SaleECS\SaleECS\bin\System.ValueTuple.xml
+C:\Users\OS\source\repos\SaleECS\SaleECS\obj\Debug\SaleECS.csprojAssemblyReference.cache
+F:\SaleECS\SaleECS\bin\SaleECS.dll.config
+F:\SaleECS\SaleECS\bin\SaleECS.dll
+F:\SaleECS\SaleECS\bin\SaleECS.pdb
+F:\SaleECS\SaleECS\bin\roslyn\csc.exe
+F:\SaleECS\SaleECS\bin\roslyn\csc.exe.config
+F:\SaleECS\SaleECS\bin\roslyn\csc.rsp
+F:\SaleECS\SaleECS\bin\roslyn\csi.exe
+F:\SaleECS\SaleECS\bin\roslyn\csi.exe.config
+F:\SaleECS\SaleECS\bin\roslyn\csi.rsp
+F:\SaleECS\SaleECS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\SaleECS\SaleECS\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\SaleECS\SaleECS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\SaleECS\SaleECS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\SaleECS\SaleECS\bin\roslyn\Microsoft.Managed.Core.targets
+F:\SaleECS\SaleECS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\SaleECS\SaleECS\bin\roslyn\System.AppContext.dll
+F:\SaleECS\SaleECS\bin\roslyn\System.Collections.Immutable.dll
+F:\SaleECS\SaleECS\bin\roslyn\System.Console.dll
+F:\SaleECS\SaleECS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\SaleECS\SaleECS\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\SaleECS\SaleECS\bin\roslyn\System.IO.Compression.dll
+F:\SaleECS\SaleECS\bin\roslyn\System.IO.FileSystem.dll
+F:\SaleECS\SaleECS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\SaleECS\SaleECS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\SaleECS\SaleECS\bin\roslyn\System.IO.Pipes.dll
+F:\SaleECS\SaleECS\bin\roslyn\System.Reflection.Metadata.dll
+F:\SaleECS\SaleECS\bin\roslyn\System.Security.AccessControl.dll
+F:\SaleECS\SaleECS\bin\roslyn\System.Security.Claims.dll
+F:\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\SaleECS\SaleECS\bin\roslyn\System.Security.Principal.Windows.dll
+F:\SaleECS\SaleECS\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\SaleECS\SaleECS\bin\roslyn\System.ValueTuple.dll
+F:\SaleECS\SaleECS\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\SaleECS\SaleECS\bin\roslyn\System.Xml.XmlDocument.dll
+F:\SaleECS\SaleECS\bin\roslyn\System.Xml.XPath.dll
+F:\SaleECS\SaleECS\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\SaleECS\SaleECS\bin\roslyn\vbc.exe
+F:\SaleECS\SaleECS\bin\roslyn\vbc.exe.config
+F:\SaleECS\SaleECS\bin\roslyn\vbc.rsp
+F:\SaleECS\SaleECS\bin\roslyn\VBCSCompiler.exe
+F:\SaleECS\SaleECS\bin\roslyn\VBCSCompiler.exe.config
+F:\SaleECS\SaleECS\bin\Antlr3.Runtime.dll
+F:\SaleECS\SaleECS\bin\AutoMapper.dll
+F:\SaleECS\SaleECS\bin\EntityFramework.dll
+F:\SaleECS\SaleECS\bin\EntityFramework.SqlServer.dll
+F:\SaleECS\SaleECS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\SaleECS\SaleECS\bin\Microsoft.Web.Infrastructure.dll
+F:\SaleECS\SaleECS\bin\Newtonsoft.Json.dll
+F:\SaleECS\SaleECS\bin\System.ValueTuple.dll
+F:\SaleECS\SaleECS\bin\System.Web.Helpers.dll
+F:\SaleECS\SaleECS\bin\System.Web.Mvc.dll
+F:\SaleECS\SaleECS\bin\System.Web.Optimization.dll
+F:\SaleECS\SaleECS\bin\System.Web.Razor.dll
+F:\SaleECS\SaleECS\bin\System.Web.WebPages.Deployment.dll
+F:\SaleECS\SaleECS\bin\System.Web.WebPages.dll
+F:\SaleECS\SaleECS\bin\System.Web.WebPages.Razor.dll
+F:\SaleECS\SaleECS\bin\WebGrease.dll
+F:\SaleECS\SaleECS\bin\AutoMapper.pdb
+F:\SaleECS\SaleECS\bin\AutoMapper.xml
+F:\SaleECS\SaleECS\bin\EntityFramework.xml
+F:\SaleECS\SaleECS\bin\EntityFramework.SqlServer.xml
+F:\SaleECS\SaleECS\bin\System.ValueTuple.xml
+F:\SaleECS\SaleECS\bin\System.Web.Helpers.xml
+F:\SaleECS\SaleECS\bin\System.Web.Mvc.xml
+F:\SaleECS\SaleECS\bin\System.Web.Optimization.xml
+F:\SaleECS\SaleECS\bin\System.Web.Razor.xml
+F:\SaleECS\SaleECS\bin\System.Web.WebPages.xml
+F:\SaleECS\SaleECS\bin\System.Web.WebPages.Deployment.xml
+F:\SaleECS\SaleECS\bin\System.Web.WebPages.Razor.xml
+F:\SaleECS\SaleECS\bin\Newtonsoft.Json.xml
+F:\SaleECS\SaleECS\bin\Antlr3.Runtime.pdb
+F:\SaleECS\SaleECS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\SaleECS\SaleECS\obj\Debug\SaleECS.csproj.CoreCompileInputs.cache
+F:\SaleECS\SaleECS\obj\Debug\SaleECS.csproj.CopyComplete
+F:\SaleECS\SaleECS\obj\Debug\SaleECS.dll
+F:\SaleECS\SaleECS\obj\Debug\SaleECS.pdb
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\SaleECS.dll.config
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\SaleECS.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\SaleECS.pdb
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\csc.exe
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\csc.exe.config
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\csc.rsp
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\csi.exe
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\csi.exe.config
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\csi.rsp
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\System.AppContext.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\System.Console.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\System.IO.Compression.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\System.Security.Claims.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\System.ValueTuple.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\vbc.exe
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\vbc.exe.config
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\vbc.rsp
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\Antlr3.Runtime.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\AutoMapper.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\EntityFramework.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\EntityFramework.SqlServer.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\Newtonsoft.Json.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\System.ValueTuple.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\System.Web.Helpers.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\System.Web.Mvc.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\System.Web.Optimization.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\System.Web.Razor.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\System.Web.WebPages.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\System.Web.WebPages.Razor.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\WebGrease.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\AutoMapper.pdb
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\AutoMapper.xml
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\EntityFramework.xml
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\EntityFramework.SqlServer.xml
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\System.ValueTuple.xml
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\System.Web.Helpers.xml
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\System.Web.Mvc.xml
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\System.Web.Optimization.xml
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\System.Web.Razor.xml
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\System.Web.WebPages.xml
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\System.Web.WebPages.Razor.xml
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\Newtonsoft.Json.xml
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\Antlr3.Runtime.pdb
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\obj\Debug\SaleECS.csproj.CoreCompileInputs.cache
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\obj\Debug\SaleECS.csproj.CopyComplete
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\obj\Debug\SaleECS.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\obj\Debug\SaleECS.pdb
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\CKFinder.dll
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\bin\CKFinder.pdb
+C:\Users\Reus\Desktop\Demo_Doan\21-9\SaleECS\SaleECS\obj\Debug\SaleECS.csprojAssemblyReference.cache
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\SaleECS.dll.config
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\SaleECS.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\SaleECS.pdb
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\csc.exe
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\csc.exe.config
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\csc.rsp
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\csi.exe
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\csi.exe.config
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\csi.rsp
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\System.AppContext.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\System.Console.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\System.IO.Compression.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\System.Security.Claims.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\System.ValueTuple.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\vbc.exe
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\vbc.exe.config
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\vbc.rsp
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\VBCSCompiler.exe
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\Antlr3.Runtime.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\AutoMapper.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\CKFinder.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\EntityFramework.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\EntityFramework.SqlServer.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\Newtonsoft.Json.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\System.ValueTuple.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\System.Web.Helpers.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\System.Web.Mvc.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\System.Web.Optimization.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\System.Web.Razor.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\System.Web.WebPages.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\System.Web.WebPages.Razor.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\WebGrease.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\AutoMapper.pdb
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\AutoMapper.xml
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\CKFinder.pdb
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\EntityFramework.xml
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\EntityFramework.SqlServer.xml
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\System.ValueTuple.xml
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\System.Web.Helpers.xml
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\System.Web.Mvc.xml
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\System.Web.Optimization.xml
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\System.Web.Razor.xml
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\System.Web.WebPages.xml
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\System.Web.WebPages.Razor.xml
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\Newtonsoft.Json.xml
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\Antlr3.Runtime.pdb
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\obj\Debug\SaleECS.csproj.CoreCompileInputs.cache
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\obj\Debug\SaleECS.csproj.CopyComplete
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\obj\Debug\SaleECS.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\obj\Debug\SaleECS.pdb
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\Microsoft.ReportViewer.Design.DLL
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\Microsoft.SqlServer.Types.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\EnvDTE.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\EnvDTE80.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\stdole.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\OS\Desktop\21-9\SaleECS\SaleECS\bin\Microsoft.MSXML.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\SaleECS.dll.config
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\SaleECS.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\SaleECS.pdb
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\csc.exe
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\csc.exe.config
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\csc.rsp
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\csi.exe
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\csi.exe.config
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\csi.rsp
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\System.AppContext.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\System.Console.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\System.IO.Compression.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\System.Security.Claims.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\System.ValueTuple.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\vbc.exe
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\vbc.exe.config
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\vbc.rsp
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\VBCSCompiler.exe
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Antlr3.Runtime.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\AutoMapper.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\CKFinder.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\EntityFramework.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\EntityFramework.SqlServer.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.ReportViewer.Design.DLL
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.SqlServer.Types.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Newtonsoft.Json.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\System.ValueTuple.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\System.Web.Helpers.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\System.Web.Mvc.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\System.Web.Optimization.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\System.Web.Razor.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\System.Web.WebPages.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\System.Web.WebPages.Razor.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\WebGrease.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\EnvDTE.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\EnvDTE80.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\stdole.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\VSLangProj.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\VSLangProj80.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.MSXML.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.Windows.Design.Interaction.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\VSLangProj2.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\AutoMapper.pdb
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\AutoMapper.xml
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\CKFinder.pdb
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\EntityFramework.xml
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\EntityFramework.SqlServer.xml
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\System.ValueTuple.xml
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\System.Web.Helpers.xml
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\System.Web.Mvc.xml
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\System.Web.Optimization.xml
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\System.Web.Razor.xml
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\System.Web.WebPages.xml
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\System.Web.WebPages.Razor.xml
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Newtonsoft.Json.xml
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Antlr3.Runtime.pdb
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.Windows.Design.Interaction.xml
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\bin\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\obj\Debug\SaleECS.csproj.CoreCompileInputs.cache
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\obj\Debug\SaleECS.csproj.CopyComplete
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\obj\Debug\SaleECS.dll
+C:\Users\HuyHuyen\Desktop\New folder\SaleECS\SaleECS\obj\Debug\SaleECS.pdb
+F:\New folder\SaleECS\SaleECS\bin\SaleECS.dll.config
+F:\New folder\SaleECS\SaleECS\bin\SaleECS.dll
+F:\New folder\SaleECS\SaleECS\bin\SaleECS.pdb
+F:\New folder\SaleECS\SaleECS\bin\roslyn\csc.exe
+F:\New folder\SaleECS\SaleECS\bin\roslyn\csc.exe.config
+F:\New folder\SaleECS\SaleECS\bin\roslyn\csc.rsp
+F:\New folder\SaleECS\SaleECS\bin\roslyn\csi.exe
+F:\New folder\SaleECS\SaleECS\bin\roslyn\csi.exe.config
+F:\New folder\SaleECS\SaleECS\bin\roslyn\csi.rsp
+F:\New folder\SaleECS\SaleECS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\New folder\SaleECS\SaleECS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\Microsoft.Managed.Core.targets
+F:\New folder\SaleECS\SaleECS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\New folder\SaleECS\SaleECS\bin\roslyn\System.AppContext.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\System.Collections.Immutable.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\System.Console.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\System.IO.Compression.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\System.IO.FileSystem.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\System.IO.Pipes.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\System.Reflection.Metadata.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\System.Security.AccessControl.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\System.Security.Claims.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\System.Security.Principal.Windows.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\System.ValueTuple.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\System.Xml.XmlDocument.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\System.Xml.XPath.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\New folder\SaleECS\SaleECS\bin\roslyn\vbc.exe
+F:\New folder\SaleECS\SaleECS\bin\roslyn\vbc.exe.config
+F:\New folder\SaleECS\SaleECS\bin\roslyn\vbc.rsp
+F:\New folder\SaleECS\SaleECS\bin\roslyn\VBCSCompiler.exe
+F:\New folder\SaleECS\SaleECS\bin\roslyn\VBCSCompiler.exe.config
+F:\New folder\SaleECS\SaleECS\bin\Antlr3.Runtime.dll
+F:\New folder\SaleECS\SaleECS\bin\AutoMapper.dll
+F:\New folder\SaleECS\SaleECS\bin\CKFinder.dll
+F:\New folder\SaleECS\SaleECS\bin\EntityFramework.dll
+F:\New folder\SaleECS\SaleECS\bin\EntityFramework.SqlServer.dll
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.ReportViewer.Common.dll
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.ReportViewer.DataVisualization.DLL
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.ReportViewer.Design.DLL
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.ReportViewer.WebDesign.DLL
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.ReportViewer.WebForms.DLL
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.ReportViewer.WinForms.DLL
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.SqlServer.Types.dll
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.Web.Infrastructure.dll
+F:\New folder\SaleECS\SaleECS\bin\Newtonsoft.Json.dll
+F:\New folder\SaleECS\SaleECS\bin\System.ValueTuple.dll
+F:\New folder\SaleECS\SaleECS\bin\System.Web.Helpers.dll
+F:\New folder\SaleECS\SaleECS\bin\System.Web.Mvc.dll
+F:\New folder\SaleECS\SaleECS\bin\System.Web.Optimization.dll
+F:\New folder\SaleECS\SaleECS\bin\System.Web.Razor.dll
+F:\New folder\SaleECS\SaleECS\bin\System.Web.WebPages.Deployment.dll
+F:\New folder\SaleECS\SaleECS\bin\System.Web.WebPages.dll
+F:\New folder\SaleECS\SaleECS\bin\System.Web.WebPages.Razor.dll
+F:\New folder\SaleECS\SaleECS\bin\WebGrease.dll
+F:\New folder\SaleECS\SaleECS\bin\EnvDTE.dll
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.Shell.Interop.dll
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\New folder\SaleECS\SaleECS\bin\EnvDTE80.dll
+F:\New folder\SaleECS\SaleECS\bin\stdole.dll
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.OLE.Interop.dll
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.Designer.Interfaces.dll
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.WCFReference.Interop.dll
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.VSHelp.dll
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+F:\New folder\SaleECS\SaleECS\bin\VSLangProj.dll
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.Data.Services.dll
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.Data.Core.dll
+F:\New folder\SaleECS\SaleECS\bin\VSLangProj80.dll
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.Debugger.InteropA.dll
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.ManagedInterfaces.dll
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.MSXML.dll
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.Windows.Design.Interaction.dll
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.Windows.Design.Extensibility.dll
+F:\New folder\SaleECS\SaleECS\bin\VSLangProj2.dll
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+F:\New folder\SaleECS\SaleECS\bin\AutoMapper.pdb
+F:\New folder\SaleECS\SaleECS\bin\AutoMapper.xml
+F:\New folder\SaleECS\SaleECS\bin\CKFinder.pdb
+F:\New folder\SaleECS\SaleECS\bin\EntityFramework.xml
+F:\New folder\SaleECS\SaleECS\bin\EntityFramework.SqlServer.xml
+F:\New folder\SaleECS\SaleECS\bin\System.ValueTuple.xml
+F:\New folder\SaleECS\SaleECS\bin\System.Web.Helpers.xml
+F:\New folder\SaleECS\SaleECS\bin\System.Web.Mvc.xml
+F:\New folder\SaleECS\SaleECS\bin\System.Web.Optimization.xml
+F:\New folder\SaleECS\SaleECS\bin\System.Web.Razor.xml
+F:\New folder\SaleECS\SaleECS\bin\System.Web.WebPages.xml
+F:\New folder\SaleECS\SaleECS\bin\System.Web.WebPages.Deployment.xml
+F:\New folder\SaleECS\SaleECS\bin\System.Web.WebPages.Razor.xml
+F:\New folder\SaleECS\SaleECS\bin\Newtonsoft.Json.xml
+F:\New folder\SaleECS\SaleECS\bin\Antlr3.Runtime.pdb
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.Designer.Interfaces.xml
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.WCFReference.Interop.xml
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.Windows.Design.Interaction.xml
+F:\New folder\SaleECS\SaleECS\bin\Microsoft.Windows.Design.Extensibility.xml
+F:\New folder\SaleECS\SaleECS\obj\Debug\SaleECS.csproj.CoreCompileInputs.cache
+F:\New folder\SaleECS\SaleECS\obj\Debug\SaleECS.csproj.CopyComplete
+F:\New folder\SaleECS\SaleECS\obj\Debug\SaleECS.dll
+F:\New folder\SaleECS\SaleECS\obj\Debug\SaleECS.pdb
+F:\New folder\SaleECS\SaleECS\obj\Debug\SaleECS.csprojAssemblyReference.cache
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\SaleECS.dll.config
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\SaleECS.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\SaleECS.pdb
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\csc.exe
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\csc.exe.config
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\csc.rsp
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\csi.exe
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\csi.exe.config
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\csi.rsp
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\System.AppContext.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\System.Console.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\System.IO.Compression.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\System.Security.Claims.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\System.ValueTuple.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\vbc.exe
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\vbc.exe.config
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\vbc.rsp
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\VBCSCompiler.exe
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\Antlr3.Runtime.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\AutoMapper.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\CKFinder.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\EntityFramework.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\EntityFramework.SqlServer.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\Microsoft.ReportViewer.Design.DLL
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\Microsoft.SqlServer.Types.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\Newtonsoft.Json.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\System.ValueTuple.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\System.Web.Helpers.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\System.Web.Mvc.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\System.Web.Optimization.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\System.Web.Razor.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\System.Web.WebPages.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\System.Web.WebPages.Razor.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\WebGrease.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\EnvDTE.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\EnvDTE80.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\stdole.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\Microsoft.MSXML.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\AutoMapper.pdb
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\AutoMapper.xml
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\CKFinder.pdb
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\EntityFramework.xml
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\EntityFramework.SqlServer.xml
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\System.ValueTuple.xml
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\System.Web.Helpers.xml
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\System.Web.Mvc.xml
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\System.Web.Optimization.xml
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\System.Web.Razor.xml
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\System.Web.WebPages.xml
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\System.Web.WebPages.Razor.xml
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\Newtonsoft.Json.xml
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\Antlr3.Runtime.pdb
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\obj\Debug\SaleECS.csproj.CoreCompileInputs.cache
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\obj\Debug\SaleECS.csproj.CopyComplete
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\obj\Debug\SaleECS.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\obj\Debug\SaleECS.pdb
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\System.Net.Http.Formatting.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\System.Web.Http.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\System.Net.Http.Formatting.xml
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\System.Web.Http.xml
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\System.Data.SQLite.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\System.Data.SQLite.xml
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\System.Data.SQLite.dll.config
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\CaptchaMvc.dll
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\CaptchaMvc.pdb
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\bin\CaptchaMvc.xml
+C:\Users\OS\Desktop\29-9 hoan chinh\SaleECS\SaleECS\obj\Debug\SaleECS.csprojAssemblyReference.cache
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\SaleECS.dll.config
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\SaleECS.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\SaleECS.pdb
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\csc.exe
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\csc.exe.config
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\csc.rsp
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\csi.exe
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\csi.exe.config
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\csi.rsp
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\System.AppContext.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\System.Console.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\System.IO.Compression.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\System.Security.Claims.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\System.ValueTuple.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\vbc.exe
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\vbc.exe.config
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\vbc.rsp
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\Antlr3.Runtime.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\AutoMapper.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\CaptchaMvc.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\CKFinder.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\EntityFramework.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\EntityFramework.SqlServer.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\Microsoft.ReportViewer.Design.DLL
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\Newtonsoft.Json.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\System.Data.SQLite.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\System.Net.Http.Formatting.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\System.ValueTuple.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\System.Web.Helpers.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\System.Web.Http.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\System.Web.Mvc.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\System.Web.Optimization.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\System.Web.Razor.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\System.Web.WebPages.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\System.Web.WebPages.Razor.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\WebGrease.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\EnvDTE.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\EnvDTE80.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\stdole.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\Microsoft.MSXML.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\AutoMapper.pdb
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\AutoMapper.xml
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\CaptchaMvc.pdb
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\CaptchaMvc.xml
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\CKFinder.pdb
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\EntityFramework.xml
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\EntityFramework.SqlServer.xml
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\System.Data.SQLite.xml
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\System.Data.SQLite.dll.config
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\System.Net.Http.Formatting.xml
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\System.ValueTuple.xml
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\System.Web.Http.xml
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\System.Web.Helpers.xml
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\System.Web.Mvc.xml
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\System.Web.Optimization.xml
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\System.Web.Razor.xml
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\System.Web.WebPages.xml
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\System.Web.WebPages.Razor.xml
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\Newtonsoft.Json.xml
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\Antlr3.Runtime.pdb
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\obj\Debug\SaleECS.csprojAssemblyReference.cache
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\obj\Debug\SaleECS.csproj.CopyComplete
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\obj\Debug\SaleECS.dll
+C:\Users\Reus\Desktop\Doan_Final\chieu1710\SaleECS\SaleECS\obj\Debug\SaleECS.pdb

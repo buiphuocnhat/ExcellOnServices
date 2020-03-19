@@ -1,0 +1,201 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Managerments</title>
+
+    <!-- Custom fonts for this template-->
+    <link href="/assets/Admin/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+
+    <!-- Page level plugin CSS-->
+    <link href="/assets/Admin/vendor/datatables/dataTables.bootstrap4.css" rel="stylesheet">
+
+    <!-- Custom styles for this template-->
+    <link href="/assets/Admin/css/sb-admin.css" rel="stylesheet">
+    <link href="~/Content/themes/base/jquery-ui.min.css" rel="stylesheet" />
+    <link href="~/Content/jquery-ui-1.12.1/jquery-ui.min.css" rel="stylesheet" />
+</head>
+
+<body id="page-top">
+    <nav class="navbar navbar-expand navbar-dark bg-dark static-top">
+
+        <a class="navbar-brand mr-1" href="index.html">E C S</a>
+
+        <button class="btn btn-link btn-sm text-white order-1 order-sm-0" id="sidebarToggle" href="#">
+            <i class="fas fa-bars"></i>
+        </button>
+
+        <!-- Navbar Search -->
+        <form class="d-none d-md-inline-block form-inline ml-auto mr-0 mr-md-3 my-2 my-md-0"></form>
+
+        <!-- Navbar -->
+        <ul class="navbar-nav ml-auto ml-md-0">
+            <li class="nav-item dropdown no-arrow">
+                <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+
+                    <i>Hello @Session["Login"]</i>
+                    <i><img src="@Session["Avatar"]" width="50" class="img-circle" /></i>
+                </a>
+                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="userDropdown">
+                    <a class="dropdown-item" @Html.ActionLink("ChangePassword", "ChangePassword", "Employees", new { id = @Session["Id"] }, null)</a>
+                    <a class="dropdown-item" @Html.ActionLink("Update profile", "Update", "Update", new { id = @Session["Id"] }, null)</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="#" data-toggle="modal" data-target="#logoutModal">Logout</a>
+                </div>
+            </li>
+        </ul>
+
+    </nav>
+
+    <div id="wrapper">
+
+        <!-- Sidebar -->
+        <ul class="sidebar navbar-nav">
+            <li class="nav-item">
+                <a class="nav-link" href="index.html">
+                    <i class="fas fa-fw fa-tachometer-alt"></i>
+                    <span>Dashboard</span>
+                </a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="pagesDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <i class="fas fa-fw fa-folder"></i>
+                    <span>Managerment</span>
+                </a>
+                <div class="dropdown-menu" aria-labelledby="pagesDropdown">
+                    @if (!User.Identity.IsAuthenticated)
+                    {
+                        <a>@Url.Action("Login", "Login")</a>
+                    }
+                    else
+                    {
+                        if (User.IsInRole("Admin"))
+                        {
+                            <a class="dropdown-item" href="@Url.Action("Index", "Clients")">Manager CLients</a>
+                            <a class="dropdown-item" href="@Url.Action("Index", "Companys")">Manager Companys</a>
+                            <a class="dropdown-item" href="@Url.Action("Index", "Departments")">Manager Departments</a>
+                            <a class="dropdown-item" href="@Url.Action("Index", "Services")">Manager Services</a>
+                            <a class="dropdown-item" href="@Url.Action("Index", "Products")">Manager Products</a>
+                            <a class="dropdown-item" href="@Url.Action("Index", "Dealers")">Manager Dealers</a>
+                            <a class="dropdown-item" href="@Url.Action("Index", "Employees")">Manager Employees</a>
+                            <a class="dropdown-item" href="@Url.Action("Index", "OrderServices")">Manager OrderServices</a>
+                            <a class="dropdown-item" href="@Url.Action("Index", "OrderServiceDetails")">OrderServicesDetails</a>
+                            <a class="dropdown-item" href="@Url.Action("Index", "News")">News</a>
+
+
+                        }
+                        else if (User.IsInRole("Service"))
+                        {
+                            <a class="dropdown-item" href="@Url.Action("Index", "Services")">Manager Services</a>
+                            <a class="dropdown-item" href="@Url.Action("Index", "Companys")">Manager Companys</a>
+                            <a class="dropdown-item" href="@Url.Action("Index", "Clients")">Manager CLients</a>
+                            <a class="dropdown-item" href="@Url.Action("Index", "Products")">Manager Products</a>
+                            <a class="dropdown-item" href="@Url.Action("Index", "Dealers")">Manager Dealers</a>
+                            <a class="dropdown-item" href="@Url.Action("Index", "OrderServices")">Manager OrderServices</a>
+                            <a class="dropdown-item" href="@Url.Action("Index", "OrderServiceDetails")">OrderServices</a>
+                            <a class="dropdown-item" href="@Url.Action("Index", "News")">News</a>
+
+
+                        }
+                        else if (User.IsInRole("HR"))
+                        {
+                            <a class="dropdown-item" href="@Url.Action("Index", "Employees")">Manager Employees</a>
+                        }
+
+                    }
+
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="@Url.Action("Index", "Charts")">
+                    <i class="fas fa-fw fa-chart-area"></i>
+                    <span>Charts</span>
+                </a>
+            </li>
+
+        </ul>
+
+        <div id="content-wrapper">
+
+            <div class="container-fluid">
+
+                <!-- Breadcrumbs-->
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item">
+                        <a href="index.html">Dashboard</a>
+                    </li>
+                    <li class="breadcrumb-item active">@RenderSection("page", required: false)</li>
+                </ol>
+
+                <!-- Page Content -->
+                <h1>@RenderSection("header", required: false)</h1>
+                @if (TempData["AlertMessage"] != null)
+                {
+                    <div id="AlertBox" class="alert @TempData["AlertType"] hide">
+                        @TempData["AlertMessage"]
+                    </div>
+                }
+                @RenderBody()
+            </div>
+            <!-- /.container-fluid -->
+        </div>
+        <!-- /.content-wrapper -->
+    </div>
+    <!-- /#wrapper -->
+    <!-- Scroll to Top Button-->
+    <a class="scroll-to-top rounded" href="#page-top">
+        <i class="fas fa-angle-up"></i>
+    </a>
+
+    <!-- Logout Modal-->
+    <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Ready to Leave?</h5>
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                </div>
+                <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>
+                <div class="modal-footer">
+                    <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
+                    <a class="dropdown-item" href="@Url.Action("Logout", "Login")">Log Out</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap core JavaScript-->
+    <script src="/assets/Admin/vendor/jquery/jquery.min.js"></script>
+    <script src="/assets/Admin/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Core plugin JavaScript-->
+    <script src="/assets/Admin/vendor/jquery-easing/jquery.easing.min.js"></script>
+
+
+    <!-- Custom scripts for all pages-->
+    <script src="/assets/Admin/js/sb-admin.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/jquery-ui-1.12.1.min.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    <script src="~/Content/jquery-ui-1.12.1/jquery-ui.min.js"></script>
+    <script>
+        $(function () {
+            //Alert Message
+            $('#AlertBox').removeClass('hide');
+            $('#AlertBox').delay(1000).slideUp(500);
+        });
+    </script>
+    @RenderSection("scripts", required: false)
+
+</body>
+</html>

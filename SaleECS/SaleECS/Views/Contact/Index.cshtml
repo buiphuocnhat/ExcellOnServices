@@ -1,0 +1,92 @@
+﻿@model SaleECS.Models.FeedBack
+@{
+    ViewBag.Title = "Contact";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    #mapCanvas {
+        height: 700px;
+    }
+</style>
+@section jsFooter{
+    <script src="/assets/Client/js/Controllers/contactController.js"></script>
+    <script>
+        // This example displays a marker at the center of Australia.
+        // When the user clicks the marker, an info window opens.
+
+        function initMap() {
+            var uluru = { lat: 16.069422, lng: 108.222585 };
+            var map = new google.maps.Map(document.getElementById('mapCanvas'), {
+                zoom: 15,
+                center: uluru
+            });
+
+            var contentString = '<p>Aptech Da Nang</p> <p>38 Yên Bái</p><p>Hải Châu 1 Q. Hải Châu</p><p>Đà Nẵng 550000, Việt Nam</p>';
+
+            var infowindow = new google.maps.InfoWindow({
+                content: contentString
+            });
+
+            var marker = new google.maps.Marker({
+                position: uluru,
+                map: map,
+                title: 'Address'
+            });
+            marker.addListener('click', function () {
+                infowindow.open(map, marker);
+            });
+        }
+            //google.maps.event.addDomListener(window, 'load', initMap);
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=&callback=initMap"></script>
+    l
+}
+<div id="breadcrumb">
+    <div class="container">
+        <ul class="breadcrumb">
+            <li><a href="@Url.Action("Index","Home")">Home</a></li>
+            <li>Contact</li>
+        </ul>
+    </div>
+</div>
+
+<div class="container">
+    <div class="col-12">
+        <div class="map" id="mapCanvas"></div>
+    </div>
+</div>
+<div class="container">
+    <div class="center">
+        <h2>Drop Your Message</h2>
+        <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="row contact-wrap">
+        <div class="status alert alert-success" style="display: none"></div>
+        <div class="col-md-6 col-md-offset-3">
+            <div id="sendmessage">Your message has been sent. Thank you!</div>
+            <div id="errormessage"></div>
+            <form action="" method="post" role="form" class="contactForm">
+                <div class="form-group">
+                    <input type="text" name="name" class="form-control" id="fullname" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" required="required"/>
+                    <div class="validation"></div>
+                </div>
+                <div class="form-group">
+                    <input type="text" class="form-control" name="service" id="service" placeholder="Service" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" required="required" />
+                    <div class="validation"></div>
+                </div>
+                <div class="form-group">
+                    <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" required="required" />
+                    <div class="validation"></div>
+                </div>
+
+                <div class="form-group">
+                    <textarea class="form-control" name="content" id="content" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Content" required="required"></textarea>
+                    <div class="validation"></div>
+                </div>
+                <div class="text-center"><button type="submit" name="submit" id="btnSubmit" class="btn btn-primary btn-lg" required="required">Submit Message</button></div>
+            </form>
+            <br />
+        </div>
+    </div>
+    <!--/.row-->
+</div>

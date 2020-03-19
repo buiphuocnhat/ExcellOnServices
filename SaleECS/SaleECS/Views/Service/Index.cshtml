@@ -1,0 +1,184 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var listServices = (List<SaleECS.Models.Service>)ViewBag.Services;
+}
+
+<div id="breadcrumb">
+    <div class="container">
+        <ul class="breadcrumb">
+            <li><a href="@Url.Action("Index","Home")">Home</a></li>
+            <li>Services</li>
+        </ul>
+    </div>
+</div>
+
+@foreach (var item in listServices)
+{
+<div class="services">
+    <div class="container">
+        <h3>@item.ServiceName</h3>
+        <hr>
+
+        <div class="col-md-6">
+
+            <img src="~/assets/Client/images/Inbound.jpg" class="img-responsive">
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus interdum erat libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque libero,
+                pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
+            </p>
+        </div>
+
+        <div class="col-md-6">
+            <div class="media">
+                <ul>
+                    <li>
+                        <div class="media-left">
+                            <i class="fa fa-pencil"></i>
+                        </div>
+                        <div class="media-body">
+                            <h4 class="media-heading">@item.ServiceName</h4>
+                            <p>
+                                @item.Content
+                                @*In-bound Services (The In-bound service is a service in which the
+                                employees of Excell-on call the customers for product promotions, for
+                                checking with the customer satisfaction on the services they provide, and for
+                                the telemarketing. Outbound Call Centers depends on the technological
+                                solutions, extensive experience, quality assurance programs and commitment
+                                to customer service excellence that further ensures maximum results from
+                                the direct marketing efforts for its success.)*@
+                            </p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="media-left">
+                            <i class="fa fa-question"></i>
+                        </div>
+                        <div class="media-body">
+                            <h4 class="media-heading">What is @item.ServiceName?</h4>
+                            <p>The inbound call center’s prime job is to offer support to their clients by handling huge volume of calls coming from the customer’s side. These are mostly the questions related to clients’ products or services or other post or pre sales technical services. Our unparalleled inbound call services foster improved communication. Being available round the clock improves business revenues, strengthen long-term client relationships, and minimize operational cost..</p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="media-left">
+                            <i class="fa fa-rocket"></i>
+                        </div>
+                        <div class="media-body">
+                            <h4 class="media-heading">How We Work?</h4>
+                            <p>Before we start taking our clients call, we take time in understand the best and effective way. Our team leaders primarily analyze your needs and depending on that, we make a strategy for acquiring the best results. Prior to executing the strategy, we primarily train our team about the process or the products they has to offer to improve the service. For consistent result, we have Managers and QA for monitoring the agents. These strategies helps us to stay as one of the established inbound call centers in Kolkata with impeccable services.</p>
+                        </div>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+
+    </div>
+</div>
+}
+
+@*<div class="sub-services">
+    <div class="container">
+        <div class="col-md-6">
+            <div class="media">
+                <ul>
+                    <li>
+                        <div class="media-left">
+                            <i class="fa fa-pencil"></i>
+                        </div>
+                        <div class="media-body">
+                            <h4 class="media-heading">Out-bound Services</h4>
+                            <p>
+                                Out-bound Services (The Out-bound service is a service in which the
+                                employees of Excell-on call the customers for product promotions, for
+                                checking with the customer satisfaction on the services they provide, and for
+                                the telemarketing. Outbound Call Centers depends on the technological
+                                solutions, extensive experience, quality assurance programs and commitment
+                                to customer service excellence that further ensures maximum results from
+                                the direct marketing efforts for its success.)
+                            </p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="media-left">
+                            <i class="fa fa-question"></i>
+                        </div>
+                        <div class="media-body">
+                            <h4 class="media-heading">What is Outbound Call Service?</h4>
+                            <p>Whether you offer unparalleled service or top-quality products, you will always need to take effective step in order to make the world know about your existence. Not every time designing an in-house outbound team seems to be a feasible option as it can be time consuming along with expensive, this as a result brings the need for hiring an outbound call center service.</p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="media-left">
+                            <i class="fa fa-rocket"></i>
+                        </div>
+                        <div class="media-body">
+                            <h4 class="media-heading">How We Work?</h4>
+                            <p>We don’t promise something that we cannot keep, but we keep the bar higher to walk through the ladders and get one step higher along with improving our clients’ business. Ours is an established outbound call center in India that aims to boost your business’s potential as it helps us to reach higher in terms of revenue.</p>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <img src="/assets/Client/images/Inbound.jpg" class="img-responsive">
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus interdum erat libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque libero,
+                pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
+            </p>
+        </div>
+    </div>
+</div>
+
+<div class="services">
+    <div class="container">
+        <div class="col-md-6">
+            <img src="~/assets/Client/images/Inbound.jpg" class="img-responsive">
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus interdum erat libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque libero, pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque libero,
+                pulvinar tincidunt leo consectetur eget. Curabitur lacinia pellentesque
+            </p>
+        </div>
+
+        <div class="col-md-6">
+            <div class="media">
+                <ul>
+                    <li>
+                        <div class="media-left">
+                            <i class="fa fa-pencil"></i>
+                        </div>
+                        <div class="media-body">
+                            <h4 class="media-heading">Tele Marketing Services</h4>
+                            <p>
+                                (The Tele Marketing service is a service which is
+                                purely for the promotion of marketing or sales of the products and services.)
+                            </p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="media-left">
+                            <i class="fa fa-question"></i>
+                        </div>
+                        <div class="media-body">
+                            <h4 class="media-heading">What is Tele Marketing Services?</h4>
+                            <p>
+                                In the digital world, telemarketing is one of the most popular direct marketing approaches that offer exemplary results. To put in simple words, this is an approach made to let the world know about the services or products in the targeted market. This helps businesses spread their services or products to a large base of audience thereby generating qualified leads.
+                            </p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="media-left">
+                            <i class="fa fa-rocket"></i>
+                        </div>
+                        <div class="media-body">
+                            <h4 class="media-heading">How We Work?</h4>
+                            <p>Over decades of experience in the industry, we are now able to offer unparalleled BPO services to our clients. We understand how important it is for a business to manage their customers and hence we aim to reach the corners of the potential business, convince them about your services or products, and then convert them into another potential lead.</p>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>*@

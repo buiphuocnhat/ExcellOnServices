@@ -1,0 +1,163 @@
+﻿@model IEnumerable<SaleECS.Models.OrderService>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+@section page{
+    Order Service
+}
+@section header{
+    Manager Order Service
+}
+<style>
+    .dropdown-item.active, .dropdown-item:active {
+        background-color: #6c757d;
+    }
+</style>
+<a class="btn btn-outline-success" style="margin-bottom: 10px" onclick="PopupForm('@Url.Action("Create", "OrderServices")')"><i class="fa fa-plus"> Add New</i></a>
+<table id="ordTable" class="table table-striped table-bordered" style="width:100%">
+    <thead>
+        <tr>
+            <th>Code</th>
+            <th>PaymentDate</th>
+            <th>PaymenLate</th>
+            <th>Description</th>
+            <th>Company Name</th>
+            <th>Employee Name</th>
+            <th>Button</th>
+        </tr>
+    </thead>
+</table>
+<!-- Normal -->
+
+<link href="//cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" rel="stylesheet" />
+
+@section scripts{
+
+    <script src="//cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/1.6.0/js/dataTables.buttons.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/1.6.0/js/buttons.print.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/1.6.0/js/buttons.colVis.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/1.6.0/js/buttons.bootstrap4.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/1.6.0/js/buttons.html5.min.js"></script>
+    <script>
+    var Popup, dataTable;
+
+        $(document).ready(function () {
+        dataTable = $("#ordTable").DataTable(
+                {
+                    "ajax": {
+                        "url": "/OrderServices/GetList",
+                        "type": "GET",
+                        "datatype": "json"
+
+
+                },
+                      dom: 'Bfrtip',
+                buttons: [
+            {
+            extend: 'excelHtml5',
+            autoFilter: true,
+                        sheetName: 'Exported data',
+              exportOptions: {
+               columns: ':visible'},
+        },
+            {
+
+                extend: 'print',
+                exportOptions: {
+               columns: ':visible'},
+            },
+            'colvis'
+        ],
+                "columns": [
+                    { "data": "Code" },
+                    {
+                        "data": "PaymentDate",
+                        "render": function (data) {
+                            if (data === null) return "";
+
+                            var pattern = /Date\(([^)]+)\)/;
+                            var results = pattern.exec(data);
+                            var dt = new Date(parseFloat(results[1]));
+
+                            return (dt.getMonth() + 1) + "/" + dt.getDate() + "/" + dt.getFullYear();
+                        }
+                    },
+                    {
+                        "data": "PaymentLate",
+                        "render": function (data) {
+                            if (data === null) return "";
+
+                            var pattern = /Date\(([^)]+)\)/;
+                            var results = pattern.exec(data);
+                            var dt = new Date(parseFloat(results[1]));
+
+                            return (dt.getMonth() + 1) + "/" + dt.getDate() + "/" + dt.getFullYear();
+                        }
+                    },
+                    { "data": "Description" },
+                    {
+                        "data": "CompanyName"
+                    },
+
+                        { "data": "EmployeeName" },
+                        {
+                            "data":"Id", "render" : function (data) {
+                                return "<a class='btn btn-outline-primary btn-sm' onclick =PopupForm('@Url.Action("Edit", "OrderServices")/" +   data + "')><i class='fa fa-pencil-alt'></i> Edit</a><a class= 'btn btn-outline-danger btn-sm' style= 'margin-left: 5px' onclick=Delete("+data+")><i class='fa fa-trash'></i> Delete</a>";
+                        },
+                            "orderable": false,
+                            "searchable": false,
+                            "width": "150px"
+                        }
+                    ],
+            });
+
+        });
+
+    function PopupForm(url)
+    {
+
+            var formDiv = $('<div/>');
+            $.get(url)
+                .done(function (response)
+                {
+                    formDiv.html(response);
+                    Popup = formDiv.dialog({
+                        autoOpen: true,
+                        resizable: false,
+                        title: 'Fill Order Service Detail',
+                        height: 500,
+                        width: 700,
+                        close: function () {
+                            Popup.dialog('destroy').remove();
+                        }
+                    });
+                });
+    }
+
+    function Delete(id)
+    {
+        if (confirm('Are You Sure to Delete this Orde rService Record ?'))
+        {
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("Delete","OrderServices")/' + id,
+                success: function (data)
+                {
+                    dataTable.ajax.reload();
+                    alert('Delete success')
+                },
+                  error: function (data) {
+                         alert('This row cannot be deleted because it contains information in the ServiceDetail table');
+                    }
+            });
+        }
+    }
+
+
+    </script>
+}

@@ -1,0 +1,55 @@
+﻿@model SaleECS.Models.Company
+
+@{ //ViewBag.Title = "Create";
+    //Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+    Layout = null;
+}
+@section header{
+    Company
+}
+@using (Html.BeginForm("Create", "Companys", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <div class="form-horizontal" id="form">
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CompanyName,"Company Name", htmlAttributes: new { @class = "control-label " })
+            @Html.EditorFor(model => model.CompanyName, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.CompanyName, "", new { @class = "text-danger" })
+
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Description, htmlAttributes: new { @class = "control-label " })
+            @Html.EditorFor(model => model.Description, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })
+
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Phone, htmlAttributes: new { @class = "control-label " })
+            @Html.EditorFor(model => model.Phone, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Phone, "", new { @class = "text-danger" })
+
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Address, htmlAttributes: new { @class = "control-label " })
+            @Html.EditorFor(model => model.Address, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Address, "", new { @class = "text-danger" })
+
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="Submit" value="Submit" class="btn btn-outline-success" />
+                <input type="reset" value="Reset" class="btn btn-outline-warning" />
+            </div>
+        </div>
+    </div>
+}
+<script>
+   $.validator.unobtrusive.parse("#form");
+</script>

@@ -1,0 +1,44 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var listNewServices = (List<SaleECS.Models.News>)ViewBag.NewServices;
+}
+<div id="breadcrumb">
+    <div class="container">
+        <ul class="breadcrumb">
+            <li><a href="@Url.Action("Index","Home")">Home</a></li>
+            <li>News</li>
+        </ul>
+    </div>
+</div>
+
+<section id="portfolio">
+    <div class="container">
+        <div class="center">
+            <p>News</p>
+        </div>
+        <!--/#portfolio-filter-->
+    </div>
+    <div class="container">
+        <div class="">
+            <div class="portfolio-items">
+                @foreach (var item in listNewServices)
+                {
+                    <div class="portfolio-item apps col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="/assets/Client/images/portfolio/recent/item1.png" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <h3><a href="@Url.Action("Detail", "New")">@item.Title</a></h3>
+                                    <p>@item.Content</p>
+                                    <a class="preview"><i class="fa fa-eye">@item.CreatedDate</i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</section>
+<!--/#portfolio-item-->

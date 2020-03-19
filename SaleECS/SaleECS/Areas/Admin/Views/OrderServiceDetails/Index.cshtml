@@ -1,0 +1,106 @@
+﻿@model IEnumerable<SaleECS.Models.OrderServiceDetail>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+
+@section page{
+    Order Service Detail
+}
+@section header{
+    Manager Order Service Detail
+}
+<a class="btn btn-outline-success" style="margin-bottom: 10px" onclick="PopupForm('@Url.Action("Create", "OrderServiceDetails")')"><i class="fa fa-plus"> Add New</i></a>
+<table id="ordTable" class="table table-striped table-bordered" style="width:100%">
+    <thead>
+        <tr>
+            <th>OrderService Name</th>
+            <th>Service Name</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Status</th>
+            <th></th>
+        </tr>
+    </thead>
+</table>
+<!-- Normal -->
+
+<link href="//cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" rel="stylesheet" />
+
+@section scripts{
+
+    <script src="//cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+
+    <script>
+    var Popup, dataTable;
+
+        $(document).ready(function () {
+
+        dataTable = $("#ordTable").DataTable(
+                {
+                    "ajax": {
+                        "url": "/OrderServiceDetails/GetList",
+                        "type": "GET",
+                        "datatype": "json"
+                },
+                    "columns": [
+                        { "data": "Code" },
+                        { "data": "ServiceName" },
+                       { "data": "Price" },
+                        { "data": "Quantity" },
+                        { "data": "Status" },
+                        {
+                            "data":"Id", "render" : function (data) {
+                                return "<a class='btn btn-outline-primary btn-sm' onclick =PopupForm('@Url.Action("Edit", "OrderServiceDetails")/" +   data + "')><i class='fa fa-pencil-alt'></i> Edit</a><a class= 'btn btn-outline-danger btn-sm' style= 'margin-left: 5px' onclick=Delete("+data+")><i class='fa fa-trash'></i> Delete</a>";
+                        },
+                            "orderable": false,
+                            "searchable": false,
+                            "width": "150px"
+                        }
+                    ],
+            });
+
+        });
+
+    function PopupForm(url)
+    {
+
+            var formDiv = $('<div/>');
+            $.get(url)
+                .done(function (response)
+                {
+                    formDiv.html(response);
+                    Popup = formDiv.dialog({
+                        autoOpen: true,
+                        resizable: false,
+                        title: 'Fill Order Order Service Detail Detail',
+                        height: 500,
+                        width: 700,
+                        close: function () {
+                            Popup.dialog('destroy').remove();
+                        }
+                    });
+                });
+    }
+
+    function Delete(id)
+    {
+        if (confirm('Are You Sure to Delete this Orde Service Details Record ?'))
+        {
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("Delete","OrderServiceDetails")/' + id,
+                success: function (data)
+                {
+                    dataTable.ajax.reload();
+                    alert('Delete success')
+                }
+            });
+        }
+    }
+
+
+    </script>
+}
